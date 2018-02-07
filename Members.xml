@@ -1,0 +1,15 @@
+<object-stream>
+  <models.LinkMovies>
+    <mMovie>
+      <title>jaws</title>
+      <genre>action</genre>
+      <description>asdasd</description>
+      <year>2007</year>
+      <runTime>123</runTime>
+      <countMovies>1</countMovies>
+      <getNumber>0</getNumber>
+      <key>0</key>
+    </mMovie>
+    <key>0</key>
+  </models.LinkMovies>
+</object-stream>

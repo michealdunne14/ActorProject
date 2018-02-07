@@ -1,0 +1,11 @@
+<object-stream>
+  <models.LinkActors>
+    <mActor>
+      <name>micheal</name>
+      <gender>male</gender>
+      <nationality>irirsh</nationality>
+      <dateOfBirth>121212</dateOfBirth>
+      <countActors>1</countActors>
+    </mActor>
+  </models.LinkActors>
+</object-stream>
